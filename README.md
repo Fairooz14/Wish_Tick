@@ -1,4 +1,4 @@
-# wish_tracker
+# wish_tick
 
 A new Flutter project.
 
